@@ -30,7 +30,7 @@ To run containers altogether:
 
 (2) On Linux or Mac run those containers above:
 ```
-$ docker-compose up & d
+$ docker-compose up -d
 ```
 
 ### Dependencies
